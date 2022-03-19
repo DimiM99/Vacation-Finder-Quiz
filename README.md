@@ -1,6 +1,6 @@
 # Vacation-Finder-Quiz
 
-# This Application was a part of a final deliverable in CO1 Code Red module for all 1st term students at XU exponential university
+###  This Application was a part of a final deliverable in CO1 Code Red module for all 1st term students at XU exponential university
 
 
 iOS application to determine a country for a vacation based on answers you provide, respecting covind19 situation
@@ -14,7 +14,7 @@ For the resulting country show a short introduction to the country with some tex
 Optional: For the resulting country show realtime CoVid19 numbers and current travel restrictions and regulations.
 
 To start with your project first think about your target group and the user experience.
-Create at least:
+Create at least: 
 wireframes, mockups and flowcharts that show the idea and functionality of your app.
 
 As soon as you found your solution fitting your vision build it as a swift storyboard app with Xcode.
